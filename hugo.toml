@@ -1,0 +1,12 @@
+baseURL = 'http://127.0.0.1:1313/'
+languageCode = 'en-us'
+title = 'Misawan Blogs'
+theme = 'PaperMod'
+
+[params.homeInfoParams]
+    Title = "Hello World \U0001F44B"
+    Content = "Welcome to my authentic blog. I'm building this from scratch using Hugo."
+
+[[params.socialIcons]]
+    name = "github"
+    url = "https://github.com/misahwan"
