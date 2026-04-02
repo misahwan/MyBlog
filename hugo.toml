@@ -1,12 +1,12 @@
-baseURL = 'http://127.0.0.1:1313/'
+baseURL = 'https://misahwan.github.io/MyBlog/'
 languageCode = 'en-us'
-title = 'Misawan Blogs'
+title = 'Misa Blog'
 theme = 'PaperMod'
 
-[params.homeInfoParams]
-    Title = "Hello World \U0001F44B"
-    Content = "Welcome to my authentic blog. I'm building this from scratch using Hugo."
-
-[[params.socialIcons]]
-    name = "github"
-    url = "https://misahwan.github.io/MyBlog/"
+[params]
+    defaultTheme = "auto"
+    ShowThemeToggle = true
+    ShowReadingTime = true
+    ShowShareButtons = true
+    ShowPostNavLinks = true
+    ShowBreadCrumbs = true
