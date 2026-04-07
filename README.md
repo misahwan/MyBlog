@@ -1,0 +1,1 @@
+This repository houses the source code and configuration for my personal blog, offering a dedicated space to document my journey as I master new languages and coding techniques.
